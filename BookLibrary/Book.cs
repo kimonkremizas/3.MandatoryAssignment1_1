@@ -21,8 +21,7 @@ namespace BookLibrary
             PageNumber = pageNumber;
             Isbn13 = isbn13;
         }
-
-
+        
         public string Title
         {
             get { return _title; }
